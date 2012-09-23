@@ -10,3 +10,5 @@ at the root of project,
 
     % autotest
 and autotest will start running.
+
+[![endorse](http://api.coderwall.com/zakuni/endorsecount.png)](http://coderwall.com/zakuni)

@@ -1,5 +1,7 @@
 source "http://rubygems.org"
-gem "rspec"
+
+gem "minitest"
+gem "minitest-reporters", :require => "minitest/reporters"
 gem "ZenTest"
 gem "autotest-fsevent"
-gem "autotest-growl"
+gem "minitest-growl"
